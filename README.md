@@ -28,12 +28,6 @@ Dalam bisnis e-commerce, ulasan pelanggan (customer reviews) mengandung wawasan 
 
 ---
 
-## 👩‍💻 Author
-**Irene**
-- **GitHub:** [@irene120304](https://github.com/irene120304)
-- **LinkedIn:** [linkedin.com/in/username-irene](https://linkedin.com) *(ganti dengan URL profil LinkedIn kamu)*
-- **Target Role:** Data Scientist | Machine Learning Engineer | Data Analyst
-
 ## 🚀 How to Run Locally
 
 ```bash
